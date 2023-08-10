@@ -594,6 +594,22 @@ video {
   left: 8rem;
 }
 
+.top-36 {
+  top: 9rem;
+}
+
+.-top-36 {
+  top: -9rem;
+}
+
+.-top-32 {
+  top: -8rem;
+}
+
+.-top-28 {
+  top: -7rem;
+}
+
 .m-2 {
   margin: 0.5rem;
 }
@@ -636,6 +652,10 @@ video {
 
 .mb-8 {
   margin-bottom: 2rem;
+}
+
+.mt-7 {
+  margin-top: 1.75rem;
 }
 
 .block {
@@ -1118,6 +1138,10 @@ video {
   padding-top: 0.25rem;
 }
 
+.pt-14 {
+  padding-top: 3.5rem;
+}
+
 .text-center {
   text-align: center;
 }
@@ -1179,6 +1203,11 @@ video {
 .text-xl {
   font-size: 1.25rem;
   line-height: 1.75rem;
+}
+
+.text-9xl {
+  font-size: 8rem;
+  line-height: 1;
 }
 
 .font-bold {
